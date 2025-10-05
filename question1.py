@@ -1,7 +1,5 @@
 print("Welcome to Bagel Theatre! To purchase a ticket, please enter your info below:")
 
-
-    
 name = input("Enter your name: ")
 age = int(input("Enter your age: ")) 
  
